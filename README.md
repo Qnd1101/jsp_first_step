@@ -69,3 +69,20 @@
 </html>
 ```
 </details>
+
+## 2차원 배열 생성
+### 데이터 형[ ][ ] 배열 명 = new 데이터 형[행 원소 수][열 원소 수];
+### 데이터 형 배열 명[ ][ ] = new 데이터 형[행 원소 수][열 원소 수];
+### ex) int jumsu[][] = new int[2][3]; <br> int jumsu[][] = {{80,90,70}, {50, 80, 70}};
+<table style="border: 2px solid black; border-collapse: collapse; width: 300px;">
+  <tr>
+    <td style="border: 1px solid black;">값1</td>
+    <td style="border: 1px solid black;">값2</td>
+    <td style="border: 1px solid black;">값3</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black;">값4</td>
+    <td style="border: 1px solid black;">값5</td>
+    <td style="border: 1px solid black;">값6</td>
+  </tr>
+</table>
