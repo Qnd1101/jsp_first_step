@@ -32,7 +32,8 @@
 #### 3과목 국, 영, 수 의 점수(90, 80, 70)와 과목명을 각각 1차원 배열로 정의하고 <br> 총점과 평균을 구하는 성적처리 프로그램을 jsp로 구현하시오.
 <details>
   <summary>코드</summary>
-  코드 링크 : [링크 텍스트](URL 주소)
+
+  [성적처리_프로그램_코드 URL](https://github.com/Qnd1101/jsp_first_step/blob/main/%EC%84%B1%EC%A0%81%EC%B2%98%EB%A6%AC_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8.jsp)
   
   ```javascript
   <%@ page language="java" contentType="text/html; charset=UTF-8"
