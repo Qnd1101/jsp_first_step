@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>if문을 이용한 회원가입 프로그램</title>
+<title>if문을 이용한 로그인 확인 프로그램</title>
 </head>
 <body>
 <h3>로그인 확인</h3>
